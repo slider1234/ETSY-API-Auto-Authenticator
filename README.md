@@ -1,0 +1,1 @@
+# ETSY-API-Auto-Authenticator
