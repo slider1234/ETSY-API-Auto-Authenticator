@@ -1,0 +1,2 @@
+python GetNewToken.py
+pause
